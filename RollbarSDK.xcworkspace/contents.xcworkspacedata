@@ -93,9 +93,6 @@
          location = "group:Demos/RollbarDemoSettings.swift">
       </FileRef>
       <FileRef
-         location = "group:Demos/RollbarDemoSettings.h">
-      </FileRef>
-      <FileRef
          location = "group:Demos/README.md">
       </FileRef>
       <Group
